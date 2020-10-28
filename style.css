@@ -95,12 +95,15 @@ a {
 }
 
 .list-inline > li {
-  font-size: 40px;
-  color: #457b9d;
   display: inline-block;
   padding: 0px 10px;
 }
 
+.list-inline i {
+  font-size: 40px;
+  color: #457b9d;
+}
+
 .list-inline i:hover {
-  color: #1d3557;
+  color: #1D3557;
 }

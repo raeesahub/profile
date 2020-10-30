@@ -84,11 +84,6 @@ a {
   text-align: center;
 }
 
-.container {
-  width: auto;
-  margin: 0 auto;
-}
-
 .img-circle {
   object-fit: cover;
   border-radius: 50%;
